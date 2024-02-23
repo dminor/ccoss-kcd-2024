@@ -1,6 +1,6 @@
 CCOSS+KCD 2024
 ==============
-Slides for my talk at CCOSS+KCD 2024 in Guadalajara, México.
+[Slides](https://docs.google.com/presentation/d/1yldrkcg07ubgBka_7aCHW-5mc3ebV3F-Sl8UqhGs5Uo/edit#slide=id.g2682d49979b_0_50) for my talk at CCOSS+KCD 2024 in Guadalajara, México.
 
 Further Reading
 ---------------
